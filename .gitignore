@@ -1,0 +1,10 @@
+*~
+hex/
+pca10036/
+pca10040/
+pca20006/
+arm4/
+arm5_no_packs/
+iar/
+_build/
+config/
