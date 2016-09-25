@@ -582,7 +582,7 @@ int main(void)
     // Enter main loop.
     for (;; )
     {
-       // power_manage();
+        power_manage();
     }
 }
 
